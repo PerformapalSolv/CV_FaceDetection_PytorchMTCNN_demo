@@ -209,3 +209,10 @@ epoch_num = 22
 **视频:**
 
 <img src="https://cdn.jsdelivr.net/gh/PerformapalSolv/githubChartBed@main/img/image-20240408015556984.png" alt="image-20240408015556984" style="zoom:67%;" />
+
+### Inspiration
+
+**This project is Greatly inspired by this project**
+
+[Pytorch-MTCNN](https://github.com/yeyupiaoling/Pytorch-MTCNN)
+
