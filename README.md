@@ -1,5 +1,5 @@
 [本项目链接](https://github.com/PerformapalSolv/CV_FaceDetection_PytorchMTCNN_demo)
-
+[MTCNN论文链接](https://arxiv.org/ftp/arxiv/papers/1604/1604.02878.pdf)
 https://github.com/PerformapalSolv/CV_FaceDetection_PytorchMTCNN_demo
 
 # 人脸检测小作业
